@@ -1,6 +1,6 @@
 ---
 title: Ashleigh M. Salyers
-description: Master of Science in Business Analytics Student Portfolio 
+description: W&M Master of Science in Business Analytics Student Portfolio 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -17,11 +17,28 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## About Me
 
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Courses
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+#### Projects
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Tips and Tricks
 
 ```js
 // Javascript code with syntax highlighting.
@@ -38,26 +55,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Projects
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Tips and Tricks
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
 
 ### There's a horizontal rule below this.
 
@@ -99,7 +99,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 
 
 ### Definition lists can be used with HTML syntax.
