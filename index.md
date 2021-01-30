@@ -6,20 +6,13 @@ description: W&M Master of Science in Business Analytics Student Portfolio
 - [LinkedIn](https://www.linkedin.com/public-profile/in/ashleighmorgansalyers?challengeId=AQHfv1J75YPxJQAAAXdTnYrN3APvl5TBB5y-O6u3emf2_-mGZcEp5fcfEIIQ4JXiOPhWMZNdAVz0l-FjLC5kv2FtODoNFpQfEA&submissionId=e2f8ea95-9e07-5f16-fbd7-ba0ed70df31a).
 - asalyers@email.wm.edu
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 ## Purpose
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## About Me
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Me](/WMPICS/Ashleigh_Salyers.png)
 
 > Hi everyone!
 >
