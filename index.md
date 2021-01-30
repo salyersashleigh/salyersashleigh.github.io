@@ -47,18 +47,36 @@ The purpose of this website is to display the capabilities I have developed from
 
 ## Beginner Coding Tips and Tricks
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```ruby
+# Generate a Random Number
+import random
+print(random.randint(0,4))
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+# Determining a Negative or Positive Value
+Intr = int(input("Enter a number: "))
+if (Intr % 2) == 0:
+   print("Even".format(int))
+else:
+   print("Odd".format(int))
 ```
 
+```ruby
+# Convert Number to Float
+float()
+```
+
+```ruby
+# Convert list/dict to a tuple
+tuple()
+```
+
+```ruby
+# Convert dict/tuple to a list
+list[]```
+
+```ruby
+# Convert tuple/list to a dict
+dict{}
+```
