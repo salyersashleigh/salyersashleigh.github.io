@@ -12,7 +12,7 @@ The purpose of this website is to display the capabilities I have developed from
 
 ## About Me
 
-![Me](\WMPICS\Ashleigh_Salyers.JPG = 250x250)
+![Me](\WMPICS\Ashleigh_Salyers.JPG)
 
 > Hi everyone!
 >
