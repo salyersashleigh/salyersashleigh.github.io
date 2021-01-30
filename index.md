@@ -76,6 +76,7 @@ tuple()
 # Convert dict/tuple to a list
 list[]```
 
+
 ```ruby
 # Convert tuple/list to a dict
 dict{}
