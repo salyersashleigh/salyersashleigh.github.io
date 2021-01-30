@@ -36,9 +36,12 @@ The purpose of this website is to display the capabilities I have developed from
 | BUAD      5802     | Artifical Intelligence | 
 | BUAD      5762     | Capstone Project | 
 
+* * *
+
 ## Projects
 
-*   This is an unordered list following a header.
+*   User Input: This is a basic coding function that captures user input and returns a response based on that user's inserted value.
+  * [User Input Function](/User Inputs/index.md)
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
@@ -59,66 +62,3 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
