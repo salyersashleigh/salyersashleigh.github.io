@@ -41,8 +41,8 @@ The purpose of this website is to display the capabilities I have developed from
 ## Projects
 
 *   [User Input](/User Inputs/index.md): This is a basic coding function that captures user input and returns a response based on that user's inserted value.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [Sample Repository]]https://github.com/salyersashleigh/sample: This repository will provide you with some sample graphs that I have developed using Python.
+
 
 ## Beginner Coding Tips and Tricks
 
