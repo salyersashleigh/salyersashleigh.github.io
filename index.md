@@ -19,9 +19,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-> This is a blockquote following a header.
+> Hi everyone!
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> My name is Ashleigh Salyers and I am incredibly excited to begin the Master of Science in Business Analytics Program at W&M. In 2017, I graduated from James Madison University > with a double major in Justice Studies and Sociology. Currently, I am a Reporting Analyst on a Project Management team supporting a fast-paced Government client. In my role, I > enjoy managing data, developing documents/reports, and conducting high level analysis. I know that this program will assist me in accomplishing my career goals! In my free > time, I enjoy running, yoga/meditation, and spending time with my Fiancé, Paul, and cat, Apollo.
+>
 
 ### Courses
 
