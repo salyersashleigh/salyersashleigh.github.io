@@ -55,11 +55,11 @@ print(random.randint(0,4))
 
 ```ruby
 # Determining a Negative or Positive Value
-Intr = int(input("Enter a number: "))
-if (Intr % 2) == 0:
-   print("Even".format(int))
-else:
-   print("Odd".format(int))
+for j in range(list):
+   if (j % 2) == 0:
+      print("Even".format(int))
+   else:
+    print("Odd".format(int))
 ```
 
 ```ruby
