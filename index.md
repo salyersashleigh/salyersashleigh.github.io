@@ -12,7 +12,7 @@ The purpose of this website is to display the capabilities I have developed from
 
 ## About Me
 
-![Me](\WMPICS\A_Salyers.JPG)
+![Me](\WMPICS\A_Salyers.jpg)
 
 > Hi everyone!
 >
@@ -23,10 +23,18 @@ The purpose of this website is to display the capabilities I have developed from
 
 | Course         | Course Name         
 |:-------------|:------------------|
-| ok           | good swedish fish | 
-| out of stock | good and plenty   | 
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop | 
+| BUAD 502A           | Probability and Statistics I | 
+| BUAD 502B| R Programming  | 
+| BUAD  502C         | Python Programming    |
+| BUAD  502D        | Linear Algebra for Business Analytics | 
+| BUAD    5112       | Competing through Business Analytics | 
+| BUAD       5772    | Database Management and Visualization| 
+| BUAD     5052      | Probabiliy and Statistics for Business Analytics | 
+| BUAD       5092    | Optimization & Heuristics | 
+| BUAD     5122      | Machine Learning I | 
+| BUAD     5132      | Machine Learning II | 
+| BUAD      5802     | Artifical Intelligence | 
+| BUAD      5762     | Capstone Project | 
 
 ## Projects
 
