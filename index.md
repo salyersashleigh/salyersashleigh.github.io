@@ -1,9 +1,9 @@
 ---
 title: Ashleigh M. Salyers
 description: W&M Master of Science in Business Analytics Student Portfolio 
-[LinkedIn](https://www.linkedin.com/public-profile/in/ashleighmorgansalyers?challengeId=AQHfv1J75YPxJQAAAXdTnYrN3APvl5TBB5y-O6u3emf2_-mGZcEp5fcfEIIQ4JXiOPhWMZNdAVz0l-FjLC5kv2FtODoNFpQfEA&submissionId=e2f8ea95-9e07-5f16-fbd7-ba0ed70df31a).
 ---
 
+[LinkedIn](https://www.linkedin.com/public-profile/in/ashleighmorgansalyers?challengeId=AQHfv1J75YPxJQAAAXdTnYrN3APvl5TBB5y-O6u3emf2_-mGZcEp5fcfEIIQ4JXiOPhWMZNdAVz0l-FjLC5kv2FtODoNFpQfEA&submissionId=e2f8ea95-9e07-5f16-fbd7-ba0ed70df31a).
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
