@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Purpose
+## Purpose
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -24,7 +24,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > My name is Ashleigh Salyers and I am a graduate student in the Master of Science in Business Analytics Program at W&M. In 2017, I graduated from James Madison University  with a double major in Justice Studies and Sociology. Currently, I am a Reporting Analyst on a Project Management team supporting a fast-paced Government client. In my role, I  enjoy managing data, developing documents/reports, and conducting high level analysis. I know that this program will assist me in accomplishing my career goals! In my free time, I enjoy running, yoga/meditation, and spending time with my Fiancé, Paul, and cat, Apollo.
 
 
-### Courses
+## Courses
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -33,13 +33,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-#### Projects
+## Projects
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Tips and Tricks
+## Beginner Coding Tips and Tricks
 
 ```js
 // Javascript code with syntax highlighting.
@@ -55,10 +55,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-###### Header 6
-
-
 
 ### There's a horizontal rule below this.
 
