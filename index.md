@@ -8,11 +8,11 @@ description: W&M Master of Science in Business Analytics Student Portfolio
 
 ## Purpose
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+The purpose of this website is to display 
 
 ## About Me
 
-![Me](/WMPICS/Ashleigh_Salyers.jpg)
+![Me](C:\Users\Ashleigh\Documents\W&M\WMPICS)
 
 > Hi everyone!
 >
