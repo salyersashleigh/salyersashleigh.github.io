@@ -8,7 +8,7 @@ description: W&M Master of Science in Business Analytics Student Portfolio
 
 ## Purpose
 
-The purpose of this website is to display 
+The purpose of this website is to display the capabilities I have developed from the William & Mary Master of Science in Business Analytics Program, and skills learned along the way. I hope that this website provides you insight about myself, my projects, and code I find helpful! 
 
 ## About Me
 
