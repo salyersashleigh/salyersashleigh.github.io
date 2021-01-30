@@ -40,8 +40,7 @@ The purpose of this website is to display the capabilities I have developed from
 
 ## Projects
 
-*   User Input: This is a basic coding function that captures user input and returns a response based on that user's inserted value.
-  * [User Input Function](/User Inputs/index.md)
+*   [User Input](/User Inputs/index.md): This is a basic coding function that captures user input and returns a response based on that user's inserted value.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
