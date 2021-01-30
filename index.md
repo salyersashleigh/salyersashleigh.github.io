@@ -12,7 +12,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## About Me
 
-![Me](/WMPICS/Ashleigh_Salyers.png)
+![Me](/WMPICS/Ashleigh_Salyers.jpg)
 
 > Hi everyone!
 >
@@ -21,12 +21,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Courses
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Course         | Course Name         
+|:-------------|:------------------|
+| ok           | good swedish fish | 
+| out of stock | good and plenty   | 
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop | 
 
 ## Projects
 
