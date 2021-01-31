@@ -41,7 +41,7 @@ The purpose of this website is to display the capabilities I have developed from
 ## Projects
 
 *   [User Input](/User Inputs/index.md): This is a basic coding function that captures user input and returns a response based on that user's inserted value.
-*   [Sample Repository](https://github.com/salyersashleigh/sample): This repository will provide you with some sample graphs that I have developed using Python.
+*   [Basic Graphing Repository](https://github.com/salyersashleigh/sample): This repository will provide you with some sample graphs that I have developed using Python.
 *   [Basic Graphing HTML](Graph Functions.html) and [Basic Graphing Jupyter Notebook](Graph Functions.ipynb): This provides the basic coding functions for a scatterplot and a bar chart. 
 
 
@@ -65,19 +65,10 @@ for j in range(list):
 ```ruby
 # Convert Number to Float
 float()
-```
-
-```ruby
 # Convert list/dict to a tuple
 tuple()
-```
-
-```ruby
 # Convert dict/tuple to a list
 list[]
-```
-
-```ruby
 # Convert tuple/list to a dict
 dict{}
 ```
